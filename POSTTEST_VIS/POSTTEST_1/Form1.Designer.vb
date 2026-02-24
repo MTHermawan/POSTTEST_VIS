@@ -33,7 +33,7 @@ Partial Class Form1
         ' 
         ' btnTambah
         ' 
-        btnTambah.Location = New Point(344, 158)
+        btnTambah.Location = New Point(340, 234)
         btnTambah.Name = "btnTambah"
         btnTambah.Size = New Size(94, 29)
         btnTambah.TabIndex = 0
@@ -43,7 +43,7 @@ Partial Class Form1
         ' txtIPS
         ' 
         txtIPS.AutoSize = True
-        txtIPS.Location = New Point(219, 125)
+        txtIPS.Location = New Point(232, 164)
         txtIPS.Name = "txtIPS"
         txtIPS.Size = New Size(86, 20)
         txtIPS.TabIndex = 1
@@ -51,7 +51,7 @@ Partial Class Form1
         ' 
         ' txtInputIPS
         ' 
-        txtInputIPS.Location = New Point(344, 125)
+        txtInputIPS.Location = New Point(340, 161)
         txtInputIPS.Name = "txtInputIPS"
         txtInputIPS.Size = New Size(194, 27)
         txtInputIPS.TabIndex = 2
@@ -59,7 +59,7 @@ Partial Class Form1
         ' txtIPK
         ' 
         txtIPK.AutoSize = True
-        txtIPK.Location = New Point(219, 224)
+        txtIPK.Location = New Point(232, 204)
         txtIPK.Name = "txtIPK"
         txtIPK.Size = New Size(89, 20)
         txtIPK.TabIndex = 3
@@ -67,7 +67,7 @@ Partial Class Form1
         ' 
         ' btnReset
         ' 
-        btnReset.Location = New Point(444, 158)
+        btnReset.Location = New Point(440, 234)
         btnReset.Name = "btnReset"
         btnReset.Size = New Size(94, 29)
         btnReset.TabIndex = 4
@@ -76,7 +76,7 @@ Partial Class Form1
         ' 
         ' txtInputIPK
         ' 
-        txtInputIPK.Location = New Point(344, 221)
+        txtInputIPK.Location = New Point(340, 201)
         txtInputIPK.Name = "txtInputIPK"
         txtInputIPK.ReadOnly = True
         txtInputIPK.Size = New Size(194, 27)
@@ -85,10 +85,11 @@ Partial Class Form1
         ' txtKeterangan
         ' 
         txtKeterangan.AutoSize = True
-        txtKeterangan.Location = New Point(344, 267)
+        txtKeterangan.Location = New Point(540, 204)
         txtKeterangan.Name = "txtKeterangan"
-        txtKeterangan.Size = New Size(0, 20)
+        txtKeterangan.Size = New Size(25, 20)
         txtKeterangan.TabIndex = 6
+        txtKeterangan.Text = "    "
         ' 
         ' Form1
         ' 
