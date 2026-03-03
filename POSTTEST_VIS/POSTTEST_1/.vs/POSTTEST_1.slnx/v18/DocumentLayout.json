@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F6AD6BD9-E985-1B78-3349-E9E24B7D4A6F}|POSTTEST_1.vbproj|d:\\kuliah\\semester 4\\pemrograman visual\\praktikum\\posttest_vis\\posttest_1\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F6AD6BD9-E985-1B78-3349-E9E24B7D4A6F}|POSTTEST_1.vbproj|solutionrelative:form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F6AD6BD9-E985-1B78-3349-E9E24B7D4A6F}|POSTTEST_1.vbproj|d:\\kuliah\\semester 4\\pemrograman visual\\praktikum\\posttest_vis\\posttest_1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{F6AD6BD9-E985-1B78-3349-E9E24B7D4A6F}|POSTTEST_1.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
@@ -18,20 +22,33 @@
       "DocumentGroups": [
         {
           "DockedHeight": 478,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.vb",
               "DocumentMoniker": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_1\\Form1.vb",
               "RelativeDocumentMoniker": "Form1.vb",
               "ToolTip": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_1\\Form1.vb",
               "RelativeToolTip": "Form1.vb",
-              "ViewState": "AgIAACAAAAAAAAAAAAAwwCwAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAowC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2026-02-24T13:50:00.648Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_1\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "Form1.Designer.vb",
+              "ToolTip": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_1\\Form1.Designer.vb",
+              "RelativeToolTip": "Form1.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-25T08:11:57.025Z",
               "EditorCaption": ""
             },
             {
@@ -40,7 +57,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.vb [Design]",
               "DocumentMoniker": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_1\\Form1.vb",
               "RelativeDocumentMoniker": "Form1.vb",
