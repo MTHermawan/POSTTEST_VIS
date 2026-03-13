@@ -54,7 +54,7 @@ Partial Class FormHasil
         ' 
         Label1.AutoSize = True
         Label1.BackColor = Color.Transparent
-        Label1.Font = New Font("Segoe UI", 9.0F, FontStyle.Bold)
+        Label1.Font = New Font("Segoe UI", 9F, FontStyle.Bold)
         Label1.ForeColor = Color.White
         Label1.Location = New Point(230, 160)
         Label1.Name = "Label1"
@@ -66,7 +66,7 @@ Partial Class FormHasil
         ' 
         Label2.AutoSize = True
         Label2.BackColor = Color.Transparent
-        Label2.Font = New Font("Segoe UI", 9.0F, FontStyle.Bold)
+        Label2.Font = New Font("Segoe UI", 9F, FontStyle.Bold)
         Label2.ForeColor = Color.White
         Label2.Location = New Point(230, 194)
         Label2.Name = "Label2"
@@ -78,7 +78,7 @@ Partial Class FormHasil
         ' 
         Label3.AutoSize = True
         Label3.BackColor = Color.Transparent
-        Label3.Font = New Font("Segoe UI", 9.0F, FontStyle.Bold)
+        Label3.Font = New Font("Segoe UI", 9F, FontStyle.Bold)
         Label3.ForeColor = Color.White
         Label3.Location = New Point(230, 228)
         Label3.Name = "Label3"
@@ -90,7 +90,7 @@ Partial Class FormHasil
         ' 
         Label4.AutoSize = True
         Label4.BackColor = Color.Transparent
-        Label4.Font = New Font("Segoe UI", 9.0F, FontStyle.Bold)
+        Label4.Font = New Font("Segoe UI", 9F, FontStyle.Bold)
         Label4.ForeColor = Color.White
         Label4.Location = New Point(230, 262)
         Label4.Name = "Label4"
@@ -102,7 +102,7 @@ Partial Class FormHasil
         ' 
         Label5.AutoSize = True
         Label5.BackColor = Color.Transparent
-        Label5.Font = New Font("Segoe UI", 9.0F, FontStyle.Bold)
+        Label5.Font = New Font("Segoe UI", 9F, FontStyle.Bold)
         Label5.ForeColor = Color.White
         Label5.Location = New Point(230, 297)
         Label5.Name = "Label5"
@@ -114,7 +114,7 @@ Partial Class FormHasil
         ' 
         Label6.AutoSize = True
         Label6.BackColor = Color.Transparent
-        Label6.Font = New Font("Segoe UI", 9.0F, FontStyle.Bold)
+        Label6.Font = New Font("Segoe UI", 9F, FontStyle.Bold)
         Label6.ForeColor = Color.White
         Label6.Location = New Point(230, 333)
         Label6.Name = "Label6"
@@ -126,7 +126,7 @@ Partial Class FormHasil
         ' 
         Label7.AutoSize = True
         Label7.BackColor = Color.Transparent
-        Label7.Font = New Font("Segoe UI", 9.0F, FontStyle.Bold)
+        Label7.Font = New Font("Segoe UI", 9F, FontStyle.Bold)
         Label7.ForeColor = Color.White
         Label7.Location = New Point(230, 366)
         Label7.Name = "Label7"
@@ -136,25 +136,25 @@ Partial Class FormHasil
         ' 
         ' lblAlamat
         ' 
-        lblAlamat.AutoSize = True
+        lblAlamat.AutoEllipsis = True
         lblAlamat.BackColor = Color.Transparent
-        lblAlamat.Font = New Font("Segoe UI", 9.0F, FontStyle.Bold)
+        lblAlamat.Font = New Font("Segoe UI", 9F, FontStyle.Bold)
         lblAlamat.ForeColor = Color.White
         lblAlamat.Location = New Point(378, 366)
         lblAlamat.Name = "lblAlamat"
-        lblAlamat.Size = New Size(72, 20)
+        lblAlamat.Size = New Size(380, 20)
         lblAlamat.TabIndex = 14
         lblAlamat.Text = "(Alamat)"
         ' 
         ' lblHobi
         ' 
-        lblHobi.AutoSize = True
+        lblHobi.AutoEllipsis = True
         lblHobi.BackColor = Color.Transparent
-        lblHobi.Font = New Font("Segoe UI", 9.0F, FontStyle.Bold)
+        lblHobi.Font = New Font("Segoe UI", 9F, FontStyle.Bold)
         lblHobi.ForeColor = Color.White
         lblHobi.Location = New Point(378, 333)
         lblHobi.Name = "lblHobi"
-        lblHobi.Size = New Size(54, 20)
+        lblHobi.Size = New Size(380, 20)
         lblHobi.TabIndex = 13
         lblHobi.Text = "(Hobi)"
         ' 
@@ -162,7 +162,7 @@ Partial Class FormHasil
         ' 
         lblTelp.AutoSize = True
         lblTelp.BackColor = Color.Transparent
-        lblTelp.Font = New Font("Segoe UI", 9.0F, FontStyle.Bold)
+        lblTelp.Font = New Font("Segoe UI", 9F, FontStyle.Bold)
         lblTelp.ForeColor = Color.White
         lblTelp.Location = New Point(378, 297)
         lblTelp.Name = "lblTelp"
@@ -174,7 +174,7 @@ Partial Class FormHasil
         ' 
         lblJenisKelamin.AutoSize = True
         lblJenisKelamin.BackColor = Color.Transparent
-        lblJenisKelamin.Font = New Font("Segoe UI", 9.0F, FontStyle.Bold)
+        lblJenisKelamin.Font = New Font("Segoe UI", 9F, FontStyle.Bold)
         lblJenisKelamin.ForeColor = Color.White
         lblJenisKelamin.Location = New Point(378, 262)
         lblJenisKelamin.Name = "lblJenisKelamin"
@@ -186,7 +186,7 @@ Partial Class FormHasil
         ' 
         lblLahir.AutoSize = True
         lblLahir.BackColor = Color.Transparent
-        lblLahir.Font = New Font("Segoe UI", 9.0F, FontStyle.Bold)
+        lblLahir.Font = New Font("Segoe UI", 9F, FontStyle.Bold)
         lblLahir.ForeColor = Color.White
         lblLahir.Location = New Point(378, 228)
         lblLahir.Name = "lblLahir"
@@ -198,7 +198,7 @@ Partial Class FormHasil
         ' 
         lblUmur.AutoSize = True
         lblUmur.BackColor = Color.Transparent
-        lblUmur.Font = New Font("Segoe UI", 9.0F, FontStyle.Bold)
+        lblUmur.Font = New Font("Segoe UI", 9F, FontStyle.Bold)
         lblUmur.ForeColor = Color.White
         lblUmur.Location = New Point(378, 194)
         lblUmur.Name = "lblUmur"
@@ -210,7 +210,7 @@ Partial Class FormHasil
         ' 
         lblNama.AutoSize = True
         lblNama.BackColor = Color.Transparent
-        lblNama.Font = New Font("Segoe UI", 9.0F, FontStyle.Bold)
+        lblNama.Font = New Font("Segoe UI", 9F, FontStyle.Bold)
         lblNama.ForeColor = Color.White
         lblNama.Location = New Point(378, 160)
         lblNama.Name = "lblNama"
@@ -220,7 +220,7 @@ Partial Class FormHasil
         ' 
         ' FormHasil
         ' 
-        AutoScaleDimensions = New SizeF(8.0F, 20.0F)
+        AutoScaleDimensions = New SizeF(8F, 20F)
         AutoScaleMode = AutoScaleMode.Font
         BackgroundImage = My.Resources.Resources.pemvis_dr_card_form21
         ClientSize = New Size(770, 500)
