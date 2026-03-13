@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC70E3A-1F7A-94B2-1380-5BC4E03236A4}|POSTTEST_3.vbproj|d:\\kuliah\\semester 4\\pemrograman visual\\praktikum\\posttest_vis\\posttest_3\\formcetak.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{FDC70E3A-1F7A-94B2-1380-5BC4E03236A4}|POSTTEST_3.vbproj|solutionrelative:formcetak.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC70E3A-1F7A-94B2-1380-5BC4E03236A4}|POSTTEST_3.vbproj|d:\\kuliah\\semester 4\\pemrograman visual\\praktikum\\posttest_vis\\posttest_3\\formcetak.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{FDC70E3A-1F7A-94B2-1380-5BC4E03236A4}|POSTTEST_3.vbproj|solutionrelative:formcetak.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC70E3A-1F7A-94B2-1380-5BC4E03236A4}|POSTTEST_3.vbproj|d:\\kuliah\\semester 4\\pemrograman visual\\praktikum\\posttest_vis\\posttest_3\\formhasil.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{FDC70E3A-1F7A-94B2-1380-5BC4E03236A4}|POSTTEST_3.vbproj|solutionrelative:formhasil.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC70E3A-1F7A-94B2-1380-5BC4E03236A4}|POSTTEST_3.vbproj|d:\\kuliah\\semester 4\\pemrograman visual\\praktikum\\posttest_vis\\posttest_3\\formhasil.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{FDC70E3A-1F7A-94B2-1380-5BC4E03236A4}|POSTTEST_3.vbproj|solutionrelative:formhasil.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC70E3A-1F7A-94B2-1380-5BC4E03236A4}|POSTTEST_3.vbproj|d:\\kuliah\\semester 4\\pemrograman visual\\praktikum\\posttest_vis\\posttest_3\\datamodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{FDC70E3A-1F7A-94B2-1380-5BC4E03236A4}|POSTTEST_3.vbproj|solutionrelative:datamodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC70E3A-1F7A-94B2-1380-5BC4E03236A4}|POSTTEST_3.vbproj|d:\\kuliah\\semester 4\\pemrograman visual\\praktikum\\posttest_vis\\posttest_3\\validationmodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{FDC70E3A-1F7A-94B2-1380-5BC4E03236A4}|POSTTEST_3.vbproj|solutionrelative:validationmodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC70E3A-1F7A-94B2-1380-5BC4E03236A4}|POSTTEST_3.vbproj|d:\\kuliah\\semester 4\\pemrograman visual\\praktikum\\posttest_vis\\posttest_3\\formhasil.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{FDC70E3A-1F7A-94B2-1380-5BC4E03236A4}|POSTTEST_3.vbproj|solutionrelative:formhasil.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC70E3A-1F7A-94B2-1380-5BC4E03236A4}|POSTTEST_3.vbproj|d:\\kuliah\\semester 4\\pemrograman visual\\praktikum\\posttest_vis\\posttest_3\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{FDC70E3A-1F7A-94B2-1380-5BC4E03236A4}|POSTTEST_3.vbproj|solutionrelative:my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormHasil.vb",
+              "DocumentMoniker": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_3\\FormHasil.vb",
+              "RelativeDocumentMoniker": "FormHasil.vb",
+              "ToolTip": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_3\\FormHasil.vb",
+              "RelativeToolTip": "FormHasil.vb",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-13T14:33:26.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ValidationModule.vb",
+              "DocumentMoniker": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_3\\ValidationModule.vb",
+              "RelativeDocumentMoniker": "ValidationModule.vb",
+              "ToolTip": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_3\\ValidationModule.vb",
+              "RelativeToolTip": "ValidationModule.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-13T14:20:11.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataModule.vb",
+              "DocumentMoniker": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_3\\DataModule.vb",
+              "RelativeDocumentMoniker": "DataModule.vb",
+              "ToolTip": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_3\\DataModule.vb",
+              "RelativeToolTip": "DataModule.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-13T14:15:51.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormCetak.vb",
+              "DocumentMoniker": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_3\\FormCetak.vb",
+              "RelativeDocumentMoniker": "FormCetak.vb",
+              "ToolTip": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_3\\FormCetak.vb",
+              "RelativeToolTip": "FormCetak.vb",
+              "ViewState": "AgIAACMAAAAAAAAAAAA3wDIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-11T02:17:51.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormHasil.vb [Design]",
+              "DocumentMoniker": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_3\\FormHasil.vb",
+              "RelativeDocumentMoniker": "FormHasil.vb",
+              "ToolTip": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_3\\FormHasil.vb [Design]",
+              "RelativeToolTip": "FormHasil.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-13T14:07:53.684Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormCetak.vb [Design]",
+              "DocumentMoniker": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_3\\FormCetak.vb",
+              "RelativeDocumentMoniker": "FormCetak.vb",
+              "ToolTip": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_3\\FormCetak.vb [Design]",
+              "RelativeToolTip": "FormCetak.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-13T13:41:55.215Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormHasil.Designer.vb",
+              "DocumentMoniker": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_3\\FormHasil.Designer.vb",
+              "RelativeDocumentMoniker": "FormHasil.Designer.vb",
+              "ToolTip": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_3\\FormHasil.Designer.vb",
+              "RelativeToolTip": "FormHasil.Designer.vb",
+              "ViewState": "AgIAAPMAAAAAAAAAAAAWwAMBAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-13T14:34:36.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Application.Designer.vb",
+              "DocumentMoniker": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_3\\My Project\\Application.Designer.vb",
+              "RelativeDocumentMoniker": "My Project\\Application.Designer.vb",
+              "ToolTip": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_3\\My Project\\Application.Designer.vb",
+              "RelativeToolTip": "My Project\\Application.Designer.vb",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswB4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-13T14:38:03.5Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
