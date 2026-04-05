@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55460C3F-F280-F72F-4014-812F93331ABC}|POSTTEST_4.vbproj|d:\\kuliah\\semester 4\\pemrograman visual\\praktikum\\posttest_vis\\posttest_4\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{55460C3F-F280-F72F-4014-812F93331ABC}|POSTTEST_4.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55460C3F-F280-F72F-4014-812F93331ABC}|POSTTEST_4.vbproj|d:\\kuliah\\semester 4\\pemrograman visual\\praktikum\\posttest_vis\\posttest_4\\formhasil.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{55460C3F-F280-F72F-4014-812F93331ABC}|POSTTEST_4.vbproj|solutionrelative:formhasil.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55460C3F-F280-F72F-4014-812F93331ABC}|POSTTEST_4.vbproj|d:\\kuliah\\semester 4\\pemrograman visual\\praktikum\\posttest_vis\\posttest_4\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{55460C3F-F280-F72F-4014-812F93331ABC}|POSTTEST_4.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55460C3F-F280-F72F-4014-812F93331ABC}|POSTTEST_4.vbproj|d:\\kuliah\\semester 4\\pemrograman visual\\praktikum\\posttest_vis\\posttest_4\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{55460C3F-F280-F72F-4014-812F93331ABC}|POSTTEST_4.vbproj|solutionrelative:form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55460C3F-F280-F72F-4014-812F93331ABC}|POSTTEST_4.vbproj|d:\\kuliah\\semester 4\\pemrograman visual\\praktikum\\posttest_vis\\posttest_4\\formhasil.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{55460C3F-F280-F72F-4014-812F93331ABC}|POSTTEST_4.vbproj|solutionrelative:formhasil.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55460C3F-F280-F72F-4014-812F93331ABC}|POSTTEST_4.vbproj|d:\\kuliah\\semester 4\\pemrograman visual\\praktikum\\posttest_vis\\posttest_4\\formhasil.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{55460C3F-F280-F72F-4014-812F93331ABC}|POSTTEST_4.vbproj|solutionrelative:formhasil.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55460C3F-F280-F72F-4014-812F93331ABC}|POSTTEST_4.vbproj|d:\\kuliah\\semester 4\\pemrograman visual\\praktikum\\posttest_vis\\posttest_4\\datamodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{55460C3F-F280-F72F-4014-812F93331ABC}|POSTTEST_4.vbproj|solutionrelative:datamodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55460C3F-F280-F72F-4014-812F93331ABC}|POSTTEST_4.vbproj|d:\\kuliah\\semester 4\\pemrograman visual\\praktikum\\posttest_vis\\posttest_4\\validationmodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{55460C3F-F280-F72F-4014-812F93331ABC}|POSTTEST_4.vbproj|solutionrelative:validationmodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 478,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormHasil.vb",
+              "DocumentMoniker": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_4\\FormHasil.vb",
+              "RelativeDocumentMoniker": "FormHasil.vb",
+              "ToolTip": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_4\\FormHasil.vb",
+              "RelativeToolTip": "FormHasil.vb",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA8wBcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-05T15:47:08.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_4\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_4\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AgIAACQAAAAAAAAAAAAMwDAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-05T15:44:52.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormHasil.Designer.vb",
+              "DocumentMoniker": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_4\\FormHasil.Designer.vb",
+              "RelativeDocumentMoniker": "FormHasil.Designer.vb",
+              "ToolTip": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_4\\FormHasil.Designer.vb",
+              "RelativeToolTip": "FormHasil.Designer.vb",
+              "ViewState": "AgIAABwBAAAAAAAAAAAuwD0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-05T15:41:48.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_4\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "Form1.Designer.vb",
+              "ToolTip": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_4\\Form1.Designer.vb",
+              "RelativeToolTip": "Form1.Designer.vb",
+              "ViewState": "AgIAADcCAAAAAAAAAAAuwFUCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-05T15:37:37.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormHasil.vb [Design]",
+              "DocumentMoniker": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_4\\FormHasil.vb",
+              "RelativeDocumentMoniker": "FormHasil.vb",
+              "ToolTip": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_4\\FormHasil.vb [Design]",
+              "RelativeToolTip": "FormHasil.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-05T14:47:46.238Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_4\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_4\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-03T08:21:31.883Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataModule.vb",
+              "DocumentMoniker": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_4\\DataModule.vb",
+              "RelativeDocumentMoniker": "DataModule.vb",
+              "ToolTip": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_4\\DataModule.vb",
+              "RelativeToolTip": "DataModule.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-05T14:12:34.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ValidationModule.vb",
+              "DocumentMoniker": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_4\\ValidationModule.vb",
+              "RelativeDocumentMoniker": "ValidationModule.vb",
+              "ToolTip": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_4\\ValidationModule.vb",
+              "RelativeToolTip": "ValidationModule.vb",
+              "ViewState": "AgIAACcAAAAAAAAAAAAmwEMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-05T14:12:04.762Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 180,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
