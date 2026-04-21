@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D70E978C-9D8E-8704-C08A-EC98CC2A6D99}|POSTTEST_6.vbproj|d:\\kuliah\\semester 4\\pemrograman visual\\praktikum\\posttest_vis\\posttest_6\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D70E978C-9D8E-8704-C08A-EC98CC2A6D99}|POSTTEST_6.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70E978C-9D8E-8704-C08A-EC98CC2A6D99}|POSTTEST_6.vbproj|d:\\kuliah\\semester 4\\pemrograman visual\\praktikum\\posttest_vis\\posttest_6\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D70E978C-9D8E-8704-C08A-EC98CC2A6D99}|POSTTEST_6.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70E978C-9D8E-8704-C08A-EC98CC2A6D99}|POSTTEST_6.vbproj|d:\\kuliah\\semester 4\\pemrograman visual\\praktikum\\posttest_vis\\posttest_6\\manajementag.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D70E978C-9D8E-8704-C08A-EC98CC2A6D99}|POSTTEST_6.vbproj|solutionrelative:manajementag.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70E978C-9D8E-8704-C08A-EC98CC2A6D99}|POSTTEST_6.vbproj|d:\\kuliah\\semester 4\\pemrograman visual\\praktikum\\posttest_vis\\posttest_6\\manajementag.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D70E978C-9D8E-8704-C08A-EC98CC2A6D99}|POSTTEST_6.vbproj|solutionrelative:manajementag.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70E978C-9D8E-8704-C08A-EC98CC2A6D99}|POSTTEST_6.vbproj|d:\\kuliah\\semester 4\\pemrograman visual\\praktikum\\posttest_vis\\posttest_6\\tambahlevel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D70E978C-9D8E-8704-C08A-EC98CC2A6D99}|POSTTEST_6.vbproj|solutionrelative:tambahlevel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70E978C-9D8E-8704-C08A-EC98CC2A6D99}|POSTTEST_6.vbproj|d:\\kuliah\\semester 4\\pemrograman visual\\praktikum\\posttest_vis\\posttest_6\\tambahlevel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D70E978C-9D8E-8704-C08A-EC98CC2A6D99}|POSTTEST_6.vbproj|solutionrelative:tambahlevel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70E978C-9D8E-8704-C08A-EC98CC2A6D99}|POSTTEST_6.vbproj|d:\\kuliah\\semester 4\\pemrograman visual\\praktikum\\posttest_vis\\posttest_6\\tambahlevel.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{D70E978C-9D8E-8704-C08A-EC98CC2A6D99}|POSTTEST_6.vbproj|solutionrelative:tambahlevel.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70E978C-9D8E-8704-C08A-EC98CC2A6D99}|POSTTEST_6.vbproj|d:\\kuliah\\semester 4\\pemrograman visual\\praktikum\\posttest_vis\\posttest_6\\editlevel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D70E978C-9D8E-8704-C08A-EC98CC2A6D99}|POSTTEST_6.vbproj|solutionrelative:editlevel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70E978C-9D8E-8704-C08A-EC98CC2A6D99}|POSTTEST_6.vbproj|d:\\kuliah\\semester 4\\pemrograman visual\\praktikum\\posttest_vis\\posttest_6\\datamodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D70E978C-9D8E-8704-C08A-EC98CC2A6D99}|POSTTEST_6.vbproj|solutionrelative:datamodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70E978C-9D8E-8704-C08A-EC98CC2A6D99}|POSTTEST_6.vbproj|d:\\kuliah\\semester 4\\pemrograman visual\\praktikum\\posttest_vis\\posttest_6\\manajementag.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D70E978C-9D8E-8704-C08A-EC98CC2A6D99}|POSTTEST_6.vbproj|solutionrelative:manajementag.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70E978C-9D8E-8704-C08A-EC98CC2A6D99}|POSTTEST_6.vbproj|d:\\kuliah\\semester 4\\pemrograman visual\\praktikum\\posttest_vis\\posttest_6\\editlevel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D70E978C-9D8E-8704-C08A-EC98CC2A6D99}|POSTTEST_6.vbproj|solutionrelative:editlevel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70E978C-9D8E-8704-C08A-EC98CC2A6D99}|POSTTEST_6.vbproj|d:\\kuliah\\semester 4\\pemrograman visual\\praktikum\\posttest_vis\\posttest_6\\levelcard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D70E978C-9D8E-8704-C08A-EC98CC2A6D99}|POSTTEST_6.vbproj|solutionrelative:levelcard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70E978C-9D8E-8704-C08A-EC98CC2A6D99}|POSTTEST_6.vbproj|d:\\kuliah\\semester 4\\pemrograman visual\\praktikum\\posttest_vis\\posttest_6\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D70E978C-9D8E-8704-C08A-EC98CC2A6D99}|POSTTEST_6.vbproj|solutionrelative:form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70E978C-9D8E-8704-C08A-EC98CC2A6D99}|POSTTEST_6.vbproj|d:\\kuliah\\semester 4\\pemrograman visual\\praktikum\\posttest_vis\\posttest_6\\manajementag.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{D70E978C-9D8E-8704-C08A-EC98CC2A6D99}|POSTTEST_6.vbproj|solutionrelative:manajementag.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70E978C-9D8E-8704-C08A-EC98CC2A6D99}|POSTTEST_6.vbproj|d:\\kuliah\\semester 4\\pemrograman visual\\praktikum\\posttest_vis\\posttest_6\\tambahlevel.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D70E978C-9D8E-8704-C08A-EC98CC2A6D99}|POSTTEST_6.vbproj|solutionrelative:tambahlevel.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70E978C-9D8E-8704-C08A-EC98CC2A6D99}|POSTTEST_6.vbproj|d:\\kuliah\\semester 4\\pemrograman visual\\praktikum\\posttest_vis\\posttest_6\\validationmodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D70E978C-9D8E-8704-C08A-EC98CC2A6D99}|POSTTEST_6.vbproj|solutionrelative:validationmodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70E978C-9D8E-8704-C08A-EC98CC2A6D99}|POSTTEST_6.vbproj|d:\\kuliah\\semester 4\\pemrograman visual\\praktikum\\posttest_vis\\posttest_6\\editlevel.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D70E978C-9D8E-8704-C08A-EC98CC2A6D99}|POSTTEST_6.vbproj|solutionrelative:editlevel.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70E978C-9D8E-8704-C08A-EC98CC2A6D99}|POSTTEST_6.vbproj|d:\\kuliah\\semester 4\\pemrograman visual\\praktikum\\posttest_vis\\posttest_6\\connectionmodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D70E978C-9D8E-8704-C08A-EC98CC2A6D99}|POSTTEST_6.vbproj|solutionrelative:connectionmodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 478,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManajemenTag.Designer.vb",
+              "DocumentMoniker": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_6\\ManajemenTag.Designer.vb",
+              "RelativeDocumentMoniker": "ManajemenTag.Designer.vb",
+              "ToolTip": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_6\\ManajemenTag.Designer.vb",
+              "RelativeToolTip": "ManajemenTag.Designer.vb",
+              "ViewState": "AgIAAO0AAAAAAAAAAAAqwPcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-21T15:17:11.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ManajemenTag.resx",
+              "DocumentMoniker": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_6\\ManajemenTag.resx",
+              "RelativeDocumentMoniker": "ManajemenTag.resx",
+              "ToolTip": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_6\\ManajemenTag.resx",
+              "RelativeToolTip": "ManajemenTag.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-04-21T14:59:26.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManajemenTag.vb [Design]",
+              "DocumentMoniker": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_6\\ManajemenTag.vb",
+              "RelativeDocumentMoniker": "ManajemenTag.vb",
+              "ToolTip": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_6\\ManajemenTag.vb [Design]",
+              "RelativeToolTip": "ManajemenTag.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-21T14:20:09.2Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_6\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_6\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-13T10:47:12.63Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LevelCard.vb",
+              "DocumentMoniker": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_6\\LevelCard.vb",
+              "RelativeDocumentMoniker": "LevelCard.vb",
+              "ToolTip": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_6\\LevelCard.vb",
+              "RelativeToolTip": "LevelCard.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-21T09:27:29.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TambahLevel.vb [Design]",
+              "DocumentMoniker": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_6\\TambahLevel.vb",
+              "RelativeDocumentMoniker": "TambahLevel.vb",
+              "ToolTip": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_6\\TambahLevel.vb [Design]",
+              "RelativeToolTip": "TambahLevel.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-13T13:41:09.705Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ManajemenTag.vb",
+              "DocumentMoniker": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_6\\ManajemenTag.vb",
+              "RelativeDocumentMoniker": "ManajemenTag.vb",
+              "ToolTip": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_6\\ManajemenTag.vb",
+              "RelativeToolTip": "ManajemenTag.vb",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwCYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-21T14:59:39.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_6\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_6\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AgIAALYAAAAAAAAAAAAYwMQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-13T12:50:02.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataModule.vb",
+              "DocumentMoniker": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_6\\DataModule.vb",
+              "RelativeDocumentMoniker": "DataModule.vb",
+              "ToolTip": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_6\\DataModule.vb",
+              "RelativeToolTip": "DataModule.vb",
+              "ViewState": "AgIAABIAAAAAAAAAAAAhwCgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-13T11:40:16.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TambahLevel.vb",
+              "DocumentMoniker": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_6\\TambahLevel.vb",
+              "RelativeDocumentMoniker": "TambahLevel.vb",
+              "ToolTip": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_6\\TambahLevel.vb",
+              "RelativeToolTip": "TambahLevel.vb",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAhwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-13T13:56:04.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EditLevel.vb [Design]",
+              "DocumentMoniker": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_6\\EditLevel.vb",
+              "RelativeDocumentMoniker": "EditLevel.vb",
+              "ToolTip": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_6\\EditLevel.vb [Design]",
+              "RelativeToolTip": "EditLevel.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-13T13:44:13.24Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditLevel.vb",
+              "DocumentMoniker": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_6\\EditLevel.vb",
+              "RelativeDocumentMoniker": "EditLevel.vb",
+              "ToolTip": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_6\\EditLevel.vb",
+              "RelativeToolTip": "EditLevel.vb",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAQwEwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-13T13:56:36.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_6\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "Form1.Designer.vb",
+              "ToolTip": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_6\\Form1.Designer.vb",
+              "RelativeToolTip": "Form1.Designer.vb",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAAAJ0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-13T13:58:09.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TambahLevel.resx",
+              "DocumentMoniker": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_6\\TambahLevel.resx",
+              "RelativeDocumentMoniker": "TambahLevel.resx",
+              "ToolTip": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_6\\TambahLevel.resx",
+              "RelativeToolTip": "TambahLevel.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-04-13T14:00:54.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TambahLevel.Designer.vb",
+              "DocumentMoniker": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_6\\TambahLevel.Designer.vb",
+              "RelativeDocumentMoniker": "TambahLevel.Designer.vb",
+              "ToolTip": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_6\\TambahLevel.Designer.vb",
+              "RelativeToolTip": "TambahLevel.Designer.vb",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAwwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-13T14:00:55.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EditLevel.Designer.vb",
+              "DocumentMoniker": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_6\\EditLevel.Designer.vb",
+              "RelativeDocumentMoniker": "EditLevel.Designer.vb",
+              "ToolTip": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_6\\EditLevel.Designer.vb",
+              "RelativeToolTip": "EditLevel.Designer.vb",
+              "ViewState": "AgIAAEMBAAAAAAAAAAAwwEEBAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-13T14:01:32.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ConnectionModule.vb",
+              "DocumentMoniker": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_6\\ConnectionModule.vb",
+              "RelativeDocumentMoniker": "ConnectionModule.vb",
+              "ToolTip": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_6\\ConnectionModule.vb",
+              "RelativeToolTip": "ConnectionModule.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-13T11:31:32.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ValidationModule.vb",
+              "DocumentMoniker": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_6\\ValidationModule.vb",
+              "RelativeDocumentMoniker": "ValidationModule.vb",
+              "ToolTip": "D:\\Kuliah\\Semester 4\\Pemrograman Visual\\Praktikum\\POSTTEST_VIS\\POSTTEST_6\\ValidationModule.vb",
+              "RelativeToolTip": "ValidationModule.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-13T11:31:04.65Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 180,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
